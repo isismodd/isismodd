@@ -1,7 +1,7 @@
 ### Hello World i'm Isis Macedo !! 
 ------------------------------------
 :books: Estou atualmente cursando informática no Instituto federal de São Paulo <br>
-:computer: Adoro programar e estudar programação!
+:computer: Sou fascinada por sistemas de informação!
 
 
 
