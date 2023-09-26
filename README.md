@@ -2,8 +2,8 @@
 ------------------------------------
 :books: Estou atualmente cursando informática no Instituto federal de São Paulo <br>
 :computer: Sou fascinada por sistemas de informação!
-<img align="right" width="400" height="400" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img align="right" width="400" height="400" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img align="right" width="20" height="400" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img align="right" width="20" height="400" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 		
 
 
