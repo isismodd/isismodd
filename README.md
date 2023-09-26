@@ -3,7 +3,7 @@
 :books: Estou atualmente cursando informática no Instituto federal de São Paulo <br>
 :computer: Sou fascinada por sistemas de informação!
 <br>
-[![Linkedin Badge]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")]()
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//) 
 <br>
 [![Instagram Badge]("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"]()
 		
