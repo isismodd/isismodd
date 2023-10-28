@@ -1,6 +1,6 @@
 ### Hello World i'm Isis Macedo !! 
 ------------------------------------
-:books: Estou atualmente cursando informática no Instituto federal de São Paulo <br>
+:books: Cursando informática no Instituto Federal de São Paulo <br>
 :computer: Open to work!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isis-macedo-aa515920b/) 
