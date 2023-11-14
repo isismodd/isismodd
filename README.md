@@ -1,4 +1,4 @@
-### Hello World i'm Isis Macedo !! 
+### Hello World, I'm Isis Macedo !! 
 ------------------------------------
 :books: Cursando informática no Instituto Federal de São Paulo <br>
 :computer: Open to work!
