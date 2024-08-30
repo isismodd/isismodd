@@ -1,6 +1,6 @@
 ### Hello World, I'm Isis Macedo !! 
 ------------------------------------
-:books: Cursando informática no Instituto Federal de São Paulo <br>
+:books: Pursuing 4th Year of High School Integrated with Technical Informatics <br>
 :computer: Help Desk Intern at ERP Jotec <br>
 🎮 Curently working on my Final project, a game called Scout's Honour
 
