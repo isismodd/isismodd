@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isismodd&show_icons=true&theme=radical)
 
 
-### Linguagens e ferramentas que uso no dia a dia
+### Skills
 -------------------------------------------------
 <code><img height= "20" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
