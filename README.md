@@ -2,7 +2,7 @@
 ------------------------------------
 :books: Pursuing 4th Year of High School Integrated with Technical Informatics <br>
 :computer: Help Desk Intern at ERP Jotec <br>
-🎮 Curently working on my Final project, a game called Scout's Honour
+🎮 Curently working on my Final project, a game called Scout's Honor
 
 Scout's Honor Demo is out! <br>
 Acess the demo in this link: https://isismacc.itch.io/scouts-honor
