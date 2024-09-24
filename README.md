@@ -4,6 +4,9 @@
 :computer: Help Desk Intern at ERP Jotec <br>
 🎮 Curently working on my Final project, a game called Scout's Honour
 
+Scout's Honor Demo is out! <br>
+Acess the demo in this link: https://isismacc.itch.io/scouts-honor
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isis-macedo-aa515920b/) 
 [<img src ="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/isis_macedoinfo/)
 		
