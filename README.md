@@ -1,7 +1,6 @@
 ### Hello World, I'm Isis Macedo !! 
 ------------------------------------
 :books: System development and analysis technologist at FIAP <br>
-:computer: Costumer support at Sinch <br>
 
 Scout's Honor is out! <br>
 Acess the game here: https://isismacc.itch.io/scouts-honor
