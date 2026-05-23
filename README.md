@@ -10,9 +10,6 @@ Acess the game here: https://isismacc.itch.io/scouts-honor
 		
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isismodd&show_icons=true&theme=radical)
-
-
 ### Skills
 -------------------------------------------------
 <code><img height= "20" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
